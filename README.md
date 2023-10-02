@@ -14,3 +14,12 @@ Standard  Template Library in C#
 10. Unordered_Set
 11. Max heap
 12. Min Heap
+
+
+# 1. Vector
+Vector will be a data structure that we will implement, that will act as a dynamic array.
+### List of Methods for vector.
+1. push_back()
+2.  pop_back()
+3. size()
+4. clear()
